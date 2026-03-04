@@ -14,7 +14,7 @@ To obtain access to the dataset, please follow the formal application process ou
 
 ### 1. Download the Agreement
 Download the **End-User License Agreement (EULA)** provided in this repository:
-👉 [**Click here to download EULA.pdf**](./Ens-User License Agreement.pdf)
+👉 [./Ens-User License Agreement.pdf](./Ens-User License Agreement.pdf)
 
 ### 2. Prepare Your Application
 Fill out the agreement with the following information:
